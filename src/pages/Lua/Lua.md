@@ -1,4 +1,4 @@
-[Return Home](../../)
+[Return Home](https://mangoisbest.github.io/code-helper/)
 
 [Edit this page on Github](https://github.com/mangoisbest/code-helper/edit/main/src/pages/Lua/Lua.md)
 
