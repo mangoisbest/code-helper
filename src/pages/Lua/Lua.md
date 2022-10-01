@@ -6,3 +6,15 @@
 
 The Lua programming language is a high level programming language mostly used in game development like Roblox uses it for there game 
 engine and so does there studio for developers to create there own games
+
+
+# Variables
+
+Variables in Lua are pretty easy to understand and don't take long to learn. To make a variable in Lua you need to define ```local``` then the variable name after.
+An example:
+```lua
+local x = 10
+
+print(x)
+```
+'Outputs 10'
