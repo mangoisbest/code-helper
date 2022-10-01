@@ -1,5 +1,5 @@
 (function () {
-  var file = this.file || "README.md";
+  var file = this.file || "Lua.md";
   var reader = new stmd.DocParser();
   var writer = new stmd.HtmlRenderer();
   var xhr = new XMLHttpRequest();
