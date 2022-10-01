@@ -17,4 +17,4 @@ local x = 10
 
 print(x)
 ```
-'Outputs 10'
+`Outputs 10`
