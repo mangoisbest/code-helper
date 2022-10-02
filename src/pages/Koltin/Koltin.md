@@ -5,3 +5,24 @@
 # Welcome to the Koltin Programming Langauge!
 
 Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
+
+# Variables
+
+Variables are containers for storing data values. To create a variable, use ```var``` or ```val```, and assign a value to it with the equal sign (```=```):
+
+## Syntax
+
+```koltin
+var variableName = value
+val variableName = value
+```
+
+## Example 
+
+```koltin
+var name = "John"
+val birthyear = 1975
+
+println(name)          // Print the value of name
+println(birthyear)     // Print the value of birthyear
+```
