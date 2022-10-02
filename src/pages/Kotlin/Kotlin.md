@@ -1,6 +1,6 @@
 [Return Home](https://mangoisbest.github.io/code-helper/)
 
-[Edit this page on Github](https://github.com/mangoisbest/code-helper/edit/main/src/pages/Koltin/Koltin.md)
+[Edit this page on Github](https://github.com/mangoisbest/code-helper/edit/main/src/pages/Kotlin/Kotlin.md)
 
 # Welcome to the Koltin Programming Langauge!
 
@@ -12,14 +12,14 @@ Variables are containers for storing data values. To create a variable, use ```v
 
 ### Syntax
 
-```koltin
+```kotlin
 var variableName = value
 val variableName = value
 ```
 
 ### Example 
 
-```koltin
+```kotlin
 var name = "John"
 val birthyear = 1975
 

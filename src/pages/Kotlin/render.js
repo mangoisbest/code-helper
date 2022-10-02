@@ -1,5 +1,5 @@
 (function () {
-  var file = this.file || "Koltin.md";
+  var file = this.file || "Kotlin.md";
   var reader = new stmd.DocParser();
   var writer = new stmd.HtmlRenderer();
   var xhr = new XMLHttpRequest();
