@@ -7,7 +7,7 @@
 Lua is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications. Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications. 
 
 
-# Variables
+# Lua variables
 
 Variables in Lua are really easy to understand and don't take long to learn and are an essential part to Lua coding. To first make a variable in Lua you will need to write ```local``` first and then the variable name after.
 Then you can put an ```=``` after to set a value to it or just leave it as ```local {variable name}```. An example:
