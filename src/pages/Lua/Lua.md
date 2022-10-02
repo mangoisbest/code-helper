@@ -4,8 +4,7 @@
 
 # Welcome to the Lua Programming Language!
 
-The Lua programming language is a high level programming language mostly used in game development like Roblox uses it for there game 
-engine and so does there studio for developers to create there own games
+Lua is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications. Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications. 
 
 
 # Variables
