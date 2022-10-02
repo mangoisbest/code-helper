@@ -10,14 +10,14 @@ Kotlin is a cross-platform, statically typed, general-purpose programming langua
 
 Variables are containers for storing data values. To create a variable, use ```var``` or ```val```, and assign a value to it with the equal sign (```=```):
 
-## Syntax
+### Syntax
 
 ```koltin
 var variableName = value
 val variableName = value
 ```
 
-## Example 
+### Example 
 
 ```koltin
 var name = "John"
