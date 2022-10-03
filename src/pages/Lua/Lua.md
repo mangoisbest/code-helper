@@ -14,8 +14,7 @@ Lua is a lightweight, high-level, multi-paradigm programming language designed p
 Variables in Lua are really easy to understand and don't take long to learn and are an essential part to Lua coding. To first make a variable in Lua you will need to write ```local``` first and then the variable name after.
 Then you can put an ```=``` after to set a value to it or just leave it as ```local {variable name}```. An example:
 ```lua
-local x = 10
+local val = 10
 
-print(x)
+print(val) -- Outputs 10 once
 ```
-`Outputs 10`
