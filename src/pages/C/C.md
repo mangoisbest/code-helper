@@ -1,20 +1,26 @@
 [Return Home](https://mangoisbest.github.io/code-helper/)
 
-[Edit this page on Github](https://github.com/mangoisbest/code-helper/edit/main/src/pages/Lua/Lua.md)
+[Edit this page on Github](https://github.com/mangoisbest/code-helper/blob/unstable-branch/src/pages/C/C.md)
 
-Page Last Modified: 4 Oct 2022 8:00pm AEST Time
+Page Last Modified: 4 Oct 2022 8:10pm AEST Time
 
-# Welcome to the Lua Programming Language!
+# Welcome to the C Programming Language!
 
-Lua is a multi-paradigm, lightweight programming language primarily intended for use in embedded applications. Because the compiled bytecode interpreter is written in ANSI C, and Lua has a relatively simple C API for embedding it into applications, Lua is cross-platform.
+C is a programming language for general-purpose computers. Dennis Ritchie invented it in the 1970s, and it is still widely used and influential today. C's features are designed to accurately reflect the capabilities of the targeted CPUs.
 
 
 # Variables
 
-Variables in Lua are easy to understand and use, and they are an important part of Lua coding and your projects. To begin creating a variable in Lua, type "local" first, then the variable name.
-Then you can put a "'="' after it to set a value or just leave it as "'local variable name"'. An example:
-```lua
-local val = 10
+Variables in C are simple to understand and use, and they are an essential part of your C coding and projects. To start creating a variable in C, type "int" for number variables, "float" for floating numbers, and "char" for single character variables first, followed by the variable name.
+Then add a "'="' to set a value or just leave it as "'int/float/char variable name"'. As an example:
+```C
+// Create variables
+int myNum = 5;             // Integer (whole number)
+float myFloatNum = 5.99;   // Floating point number
+char myLetter = 'D';       // Character
 
-print(val) -- Outputs 10 once
+// Print variables
+printf("%d\n", myNum);
+printf("%f\n", myFloatNum);
+printf("%c\n", myLetter);
 ```
