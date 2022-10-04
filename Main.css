@@ -6,6 +6,10 @@ body {
   background-color: black;
 }
 
+a {
+  color: #ffffff;	
+}
+
 h1 {
   line-height: 1;
   color: #ffffff;
