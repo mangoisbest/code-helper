@@ -1,2 +1,2 @@
-# code-helper
-this is a website to help you learn different types of code and it’s open-source! so everyone can help edit and make changes 
+# Code Helper
+Welcome to code helper, a free open-source github website designed to help you learn various programming languages for use in your projects/games.
