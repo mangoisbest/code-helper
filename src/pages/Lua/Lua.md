@@ -6,7 +6,7 @@ Page Last Modified: 3 Oct 2022
 
 # Welcome to the Lua Programming Language!
 
-Lua is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications. Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications. 
+Lua is a multi-paradigm, lightweight programming language designed primarily for embedded use in applications. Lua is cross-platform because the compiled bytecode interpreter is written in ANSI C, and Lua has a relatively simple C API for embedding it into applications.
 
 
 # Variables
