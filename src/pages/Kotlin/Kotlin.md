@@ -1,16 +1,16 @@
-[Return Home](https://mangoisbest.github.io/code-helper/)
+﻿[Return Home](https://mangoisbest.github.io/code-helper/)
 
 [Edit this page on Github](https://github.com/mangoisbest/code-helper/edit/main/src/pages/Kotlin/Kotlin.md)
 
-Page Last Modifed: 2 Oct 2022
+Page Last Modifed: 4 Oct 2022 7:40pm AEST Time
 
 # Welcome to the Koltin Programming Langauge!
 
-Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
+Kotlin is a universal, cross-platform, statically typed programming language with type inference. Kotlin is designed to be fully compatible with Java and the JVM version of Kotlin's standard library is based on the Java class library, but type inference provides more concise syntax.
 
 # Variables
 
-Variables are containers for storing data values. To create a variable, use ```var``` or ```val```, and assign a value to it with the equal sign (```=```):
+Variables play an important role in Kotlin because they need to store and persist values ​​for each project.
 
 ### Syntax
 
@@ -27,4 +27,13 @@ val birthyear = 1975
 
 println(name)          // Print the value of name
 println(birthyear)     // Print the value of birthyear
+```
+
+# Functions
+
+Kotlin functions are declared using the ```fun``` keyword:
+```kotlin
+fun double(x: Int): Int {
+    return 2 * x
+}
 ```

@@ -2,17 +2,17 @@
 
 [Edit this page on Github](https://github.com/mangoisbest/code-helper/edit/main/src/pages/Lua/Lua.md)
 
-Page Last Modified: 3 Oct 2022
+Page Last Modified: 4 Oct 2022 7:30pm AEST Time
 
 # Welcome to the Lua Programming Language!
 
-Lua is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications. Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications. 
+Lua is a multi-paradigm, lightweight programming language designed primarily for embedded use in applications. Lua is cross-platform because the compiled bytecode interpreter is written in ANSI C, and Lua has a relatively simple C API for embedding it into applications.
 
 
 # Variables
 
-Variables in Lua are really easy to understand and don't take long to learn how to use and are an essential part to Lua coding. To first make a variable in Lua you will need to write ```local``` first and then the variable name after.
-Then you can put an ```=``` after to set a value to it or just leave it as ```local {variable name}```. An example:
+Variables in Lua are very simple to understand and use, and they are an essential part of Lua coding. To create a variable in Lua, type "'local"' first, followed by the variable name.
+Then you can put a "'="' after it to set a value or just leave it as "'local variable name"'. An example:
 ```lua
 local val = 10
 
