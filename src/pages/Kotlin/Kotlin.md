@@ -10,7 +10,7 @@ Kotlin is a general-purpose, cross-platform, statically typed programming langua
 
 # Variables
 
-Variables are important in Kotlin because they must store and persist values for each project.
+Variables are extremely important in Kotlin and are almost always used in every project because they must store and persist values for each project.
 
 ### Syntax
 
