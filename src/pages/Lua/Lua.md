@@ -2,7 +2,7 @@
 
 [Edit this page on Github](https://github.com/mangoisbest/code-helper/edit/main/src/pages/Lua/Lua.md)
 
-Page Last Modified: 3 Oct 2022
+Page Last Modified: 4 Oct 2022 7:30pm AEST Time
 
 # Welcome to the Lua Programming Language!
 
