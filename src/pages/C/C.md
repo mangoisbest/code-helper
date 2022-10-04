@@ -1,6 +1,6 @@
 [Return Home](https://mangoisbest.github.io/code-helper/)
 
-[Edit this page on Github](https://github.com/mangoisbest/code-helper/blob/unstable-branch/src/pages/C/C.md)
+[Edit this page on Github](https://github.com/mangoisbest/code-helper/edit/unstable-branch/src/pages/C/C.md)
 
 Page Last Modified: 4 Oct 2022 8:10pm AEST Time
 
